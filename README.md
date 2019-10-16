@@ -18,3 +18,6 @@ xとyと(x+y)の値を出力する
 #### 実行結果   
 ![initial](https://github.com/KHANGMINJE/1864902/blob/master/HelloWorld.java)
 #### 考察   
+
+## 感想   
+GitHubの使用が初めてなのでかなりの時間がかかってしまった
