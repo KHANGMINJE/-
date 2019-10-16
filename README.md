@@ -8,7 +8,7 @@
 #### プログラムの説明   
 "Hello, world!"を出力する    
 #### 実行結果   
-![](./1864902/Hello world.PNG)https://raw.githubusercontent.com/KHANGMINJE/1864902/master/Hello%20world.PNG
+![initial](https://raw.githubusercontent.com/KHANGMINJE/1864902/master/Hello%20world.PNG)
 #### 考察   
 
 ### J1_1    
